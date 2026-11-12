@@ -1,0 +1,6 @@
+La Mona Lisa,Pintura
+El Grito,Pintura
+David,Escultura
+La Noche Estrellada,Pintura
+El Pensador,Escultura
+Guernica,Pintura
