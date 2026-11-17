@@ -169,18 +169,3 @@ Cada línea contiene el nombre de un producto y su precio, **separados por una c
 - [ ] Filtrar los productos que superen un **valor determinado**
 - [ ] Validar que los precios sean correctos
 
-
-
-
-
-
-
-
-
-
-
-
-
-⭐ Si te sirvió este repositorio, ¡déjale una estrella!
-
-</div>
